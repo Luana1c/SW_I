@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\exercícios\novo\novo\bin\Debug\net6.0\novo.exe
+C:\Users\LAB4\Desktop\exercícios\novo\novo\bin\Debug\net6.0\novo.deps.json
+C:\Users\LAB4\Desktop\exercícios\novo\novo\bin\Debug\net6.0\novo.runtimeconfig.json
+C:\Users\LAB4\Desktop\exercícios\novo\novo\bin\Debug\net6.0\novo.dll
+C:\Users\LAB4\Desktop\exercícios\novo\novo\bin\Debug\net6.0\novo.pdb
+C:\Users\LAB4\Desktop\exercícios\novo\novo\obj\Debug\net6.0\novo.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\exercícios\novo\novo\obj\Debug\net6.0\novo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\exercícios\novo\novo\obj\Debug\net6.0\novo.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\exercícios\novo\novo\obj\Debug\net6.0\novo.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\exercícios\novo\novo\obj\Debug\net6.0\novo.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\exercícios\novo\novo\obj\Debug\net6.0\novo.dll
+C:\Users\LAB4\Desktop\exercícios\novo\novo\obj\Debug\net6.0\refint\novo.dll
+C:\Users\LAB4\Desktop\exercícios\novo\novo\obj\Debug\net6.0\novo.pdb
+C:\Users\LAB4\Desktop\exercícios\novo\novo\obj\Debug\net6.0\novo.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\exercícios\novo\novo\obj\Debug\net6.0\ref\novo.dll

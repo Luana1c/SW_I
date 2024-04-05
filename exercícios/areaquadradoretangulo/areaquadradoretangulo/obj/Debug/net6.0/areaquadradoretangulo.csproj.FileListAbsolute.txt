@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\exercícios\areaquadradoretangulo\areaquadradoretangulo\bin\Debug\net6.0\areaquadradoretangulo.exe
+C:\Users\LAB4\Desktop\exercícios\areaquadradoretangulo\areaquadradoretangulo\bin\Debug\net6.0\areaquadradoretangulo.deps.json
+C:\Users\LAB4\Desktop\exercícios\areaquadradoretangulo\areaquadradoretangulo\bin\Debug\net6.0\areaquadradoretangulo.runtimeconfig.json
+C:\Users\LAB4\Desktop\exercícios\areaquadradoretangulo\areaquadradoretangulo\bin\Debug\net6.0\areaquadradoretangulo.dll
+C:\Users\LAB4\Desktop\exercícios\areaquadradoretangulo\areaquadradoretangulo\bin\Debug\net6.0\areaquadradoretangulo.pdb
+C:\Users\LAB4\Desktop\exercícios\areaquadradoretangulo\areaquadradoretangulo\obj\Debug\net6.0\areaquadradoretangulo.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\exercícios\areaquadradoretangulo\areaquadradoretangulo\obj\Debug\net6.0\areaquadradoretangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\exercícios\areaquadradoretangulo\areaquadradoretangulo\obj\Debug\net6.0\areaquadradoretangulo.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\exercícios\areaquadradoretangulo\areaquadradoretangulo\obj\Debug\net6.0\areaquadradoretangulo.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\exercícios\areaquadradoretangulo\areaquadradoretangulo\obj\Debug\net6.0\areaquadradoretangulo.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\exercícios\areaquadradoretangulo\areaquadradoretangulo\obj\Debug\net6.0\areaquadradoretangulo.dll
+C:\Users\LAB4\Desktop\exercícios\areaquadradoretangulo\areaquadradoretangulo\obj\Debug\net6.0\refint\areaquadradoretangulo.dll
+C:\Users\LAB4\Desktop\exercícios\areaquadradoretangulo\areaquadradoretangulo\obj\Debug\net6.0\areaquadradoretangulo.pdb
+C:\Users\LAB4\Desktop\exercícios\areaquadradoretangulo\areaquadradoretangulo\obj\Debug\net6.0\areaquadradoretangulo.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\exercícios\areaquadradoretangulo\areaquadradoretangulo\obj\Debug\net6.0\ref\areaquadradoretangulo.dll
