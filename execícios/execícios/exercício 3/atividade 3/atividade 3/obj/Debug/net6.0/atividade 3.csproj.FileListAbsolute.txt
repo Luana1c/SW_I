@@ -1,0 +1,15 @@
+C:\Users\LAB4\Downloads\execícios-20240412T141215Z-001\execícios\exercício 3\atividade 3\atividade 3\obj\Debug\net6.0\atividade 3.csproj.AssemblyReference.cache
+C:\Users\LAB4\Downloads\execícios-20240412T141215Z-001\execícios\exercício 3\atividade 3\atividade 3\obj\Debug\net6.0\atividade 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Downloads\execícios-20240412T141215Z-001\execícios\exercício 3\atividade 3\atividade 3\obj\Debug\net6.0\atividade 3.AssemblyInfoInputs.cache
+C:\Users\LAB4\Downloads\execícios-20240412T141215Z-001\execícios\exercício 3\atividade 3\atividade 3\obj\Debug\net6.0\atividade 3.AssemblyInfo.cs
+C:\Users\LAB4\Downloads\execícios-20240412T141215Z-001\execícios\exercício 3\atividade 3\atividade 3\obj\Debug\net6.0\atividade 3.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Downloads\execícios-20240412T141215Z-001\execícios\exercício 3\atividade 3\atividade 3\bin\Debug\net6.0\atividade 3.exe
+C:\Users\LAB4\Downloads\execícios-20240412T141215Z-001\execícios\exercício 3\atividade 3\atividade 3\bin\Debug\net6.0\atividade 3.deps.json
+C:\Users\LAB4\Downloads\execícios-20240412T141215Z-001\execícios\exercício 3\atividade 3\atividade 3\bin\Debug\net6.0\atividade 3.runtimeconfig.json
+C:\Users\LAB4\Downloads\execícios-20240412T141215Z-001\execícios\exercício 3\atividade 3\atividade 3\bin\Debug\net6.0\atividade 3.dll
+C:\Users\LAB4\Downloads\execícios-20240412T141215Z-001\execícios\exercício 3\atividade 3\atividade 3\bin\Debug\net6.0\atividade 3.pdb
+C:\Users\LAB4\Downloads\execícios-20240412T141215Z-001\execícios\exercício 3\atividade 3\atividade 3\obj\Debug\net6.0\atividade 3.dll
+C:\Users\LAB4\Downloads\execícios-20240412T141215Z-001\execícios\exercício 3\atividade 3\atividade 3\obj\Debug\net6.0\refint\atividade 3.dll
+C:\Users\LAB4\Downloads\execícios-20240412T141215Z-001\execícios\exercício 3\atividade 3\atividade 3\obj\Debug\net6.0\atividade 3.pdb
+C:\Users\LAB4\Downloads\execícios-20240412T141215Z-001\execícios\exercício 3\atividade 3\atividade 3\obj\Debug\net6.0\atividade 3.genruntimeconfig.cache
+C:\Users\LAB4\Downloads\execícios-20240412T141215Z-001\execícios\exercício 3\atividade 3\atividade 3\obj\Debug\net6.0\ref\atividade 3.dll
